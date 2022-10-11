@@ -2,4 +2,6 @@
 
 A curated list of interesting ideas worth implementing.
 
-[ ] Otherlog clock - https://www.reddit.com/r/DidntKnowIWantedThat/comments/xzo61v/otherlog_clock/
+For docs on already implemented ideas, see [finished-ideas](finished-ideas)
+
+- [x] [Otherlog clock](finished-ideas/clock.md)
